@@ -1,8 +1,6 @@
-# Gatsby Bootstrap Netlify Starter
+# Apollo
 
-[Bootstrap 4](http://getbootstrap.com/), [bootswatch](https://bootswatch.com/) and netlify CMS starter for Gatsby
-
-This repo contains an example blog that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://netlifycms.org): [demo](https://gatsby-starter-bootstrap-netlify.netlify.com)
+This repo contains an example blog that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://netlifycms.org): 
 
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](netlify.com) for continuous deployment, and CDN distribution.
 
